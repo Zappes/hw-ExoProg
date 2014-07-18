@@ -1,4 +1,4 @@
-ekout board for ATtiny85
+Programmer breakout board for ATtiny85
 ======================================
 
 What Is this?
